@@ -1,0 +1,11 @@
+name: stocks_dash
+channels:
+  - defaults
+dependencies:
+  - python = 3.7
+  - numpy
+  - pandas
+  - dash
+  - dash-auth
+  - pandas-datareader
+prefix: /usr/local/anaconda3/envs/stocks_dash
